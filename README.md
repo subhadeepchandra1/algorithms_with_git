@@ -34,6 +34,7 @@ Happy Open Sourcing!
 - [Towers_of_Hanoi](algorithms/Maths/Towers_of_Hanoi/)
 - [Digits to Figure](algorithms/Maths/digit_to_figure)
 - [T Prime Number](algorithms/Maths/t_prime_number)
+- [Fast Power](algorithms/Maths/fast_power)
 
 ### Sorting
 
